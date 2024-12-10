@@ -1,0 +1,7 @@
+
+---
+
+### GitHub Project Name and Description
+
+- **Project Name**: `WiFi Connection Automator`
+- **Description**: A Bash script that automates WiFi connections, securely stores credentials, clears command history, and removes itself after execution to ensure privacy and security.
